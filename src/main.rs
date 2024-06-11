@@ -1,6 +1,6 @@
 use std::{
     fs,
-    io::{prelude::*, BufReader},
+    io::prelude::*,
     net::{TcpListener, TcpStream},
     thread,
     time::Duration,
